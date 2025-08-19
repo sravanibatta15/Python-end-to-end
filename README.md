@@ -2,7 +2,7 @@
 # 🐍 Python Concepts Repository  
 
 This repository contains Python files covering **fundamentals to advanced concepts** of Python programming.  
-It is designed as a **learning resource, quick reference, and practice guide** for students, beginners, and developers.  
+It is designed as a **learning resource, quick reference, and practice guide** for students, beginners, and developers.
 
 ---
 
